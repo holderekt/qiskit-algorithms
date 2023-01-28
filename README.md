@@ -1,4 +1,4 @@
-# Quantum alghrithms in Qiskit
+# Quantum algorithms in Qiskit
 Common quantum algorithms implementation in Jupyter + Qiskit
 
 - Basics:
