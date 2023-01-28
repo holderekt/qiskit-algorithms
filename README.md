@@ -1,2 +1,15 @@
 # quantum-training
-Common quantum alghoritms implementation in Jupyter + Qiskit
+Common quantum algorithms implementation in Jupyter + Qiskit
+
+- Basics:
+    - Entaglement
+    - Teleportation
+    - Swap
+    - Toffoli
+- Algorithms:
+    - Deutch
+    - Deutch - Josza
+    - Simon
+    - Grover
+- Criptography:
+    - BB84
