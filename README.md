@@ -1,4 +1,4 @@
-# quantum-training
+# Quantum alghorithms in Qiskit
 Common quantum algorithms implementation in Jupyter + Qiskit
 
 - Basics:
