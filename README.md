@@ -17,3 +17,6 @@ Common quantum algorithms implementation in Jupyter + Qiskit
     - Basis state and amplitude data encoding
     - SVM Kernel inner product
     - Quantum SVM with ZZ feature map kernel
+    - Quantum Neural Network for classification
+- Deep learning:
+    - Quantum Convolutional NN for classification
