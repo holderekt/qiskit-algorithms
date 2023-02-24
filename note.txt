@@ -1,0 +1,6 @@
+Utilizzare angles encoding senza entaglement 
+Coppie di distanze con euclidea prodotto ingterno e em
+Cambio encoding
+Test agglomerativo
+Q-Means esteso a più qbit
+Continual learning su QISKIT
