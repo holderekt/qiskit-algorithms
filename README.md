@@ -20,3 +20,12 @@ Common quantum algorithms implementation in Jupyter + Qiskit
     - Quantum Neural Network for classification
 - Deep learning:
     - Quantum Convolutional NN for classification
+- Quantum distance measures:
+    - Earth's Movers 
+    - Fidelty
+    - Inner Product
+    - Controlled Swap Test
+- Clustering
+    - Quantum K-Means
+    - Agglomerative with quantum dissimilarity matrix
+    - DBSCAN with quantum dissimilarity matrix
