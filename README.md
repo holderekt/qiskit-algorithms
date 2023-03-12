@@ -26,6 +26,5 @@ Common quantum algorithms implementation in Jupyter + Qiskit
     - Inner Product
     - Controlled Swap Test
 - Clustering
-    - Quantum K-Means
     - Agglomerative with quantum dissimilarity matrix
     - DBSCAN with quantum dissimilarity matrix
